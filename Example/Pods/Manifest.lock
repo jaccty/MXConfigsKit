@@ -1,5 +1,5 @@
 PODS:
-  - MXConfigsKit (1)
+  - MXConfigsKit (1.0.1)
 
 DEPENDENCIES:
   - MXConfigsKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  MXConfigsKit: b315ef4f7f543bf32261d5f402e6cb91b17a8387
+  MXConfigsKit: 064b71f8d0eb99dad13f1a2e39710f1faf3be8ad
 
 PODFILE CHECKSUM: ee5312169783e435d3682049664b7d130db62902
 
