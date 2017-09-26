@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "FFConst.h"
 
 FOUNDATION_EXPORT double MXConfigsKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char MXConfigsKitVersionString[];
