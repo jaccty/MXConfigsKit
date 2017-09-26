@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MXConfigsKit_Example' do
+  pod 'MXConfigsKit', :path => '../'
+
+  target 'MXConfigsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
